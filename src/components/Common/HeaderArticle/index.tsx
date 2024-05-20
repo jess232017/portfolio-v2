@@ -1,7 +1,6 @@
 "use client";
 
 import React, { memo, useRef } from "react";
-
 import { motion, useInView } from "framer-motion";
 
 interface IHeaderArticleProps {
